@@ -1,0 +1,7 @@
+{
+  "name": "EventConfirm Pro",
+  "description": "A high-performance event confirmation and logistics management system with real-time analytics and Gemini-powered insights.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
